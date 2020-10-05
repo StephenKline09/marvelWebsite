@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "marvelWebsite"
+    }
+  },
+  "defaultProject": "marvelWebsite",
+  "cli": {
+    "analytics": false
+  }
 }

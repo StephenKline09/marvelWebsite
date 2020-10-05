@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
-import { MatInputModule, MatPaginatorModule, MatProgressSpinnerModule, MatSortModule, MatIconModule, MatButtonModule, MatCardModule, MatGridListModule } from '@angular/material';
+//import { MatInputModule, MatPaginatorModule, MatProgressSpinnerModule, MatSortModule, MatIconModule, MatButtonModule, MatCardModule, MatGridListModule } from '@angular/material';
 
 
 @NgModule({
@@ -17,14 +17,14 @@ import { MatInputModule, MatPaginatorModule, MatProgressSpinnerModule, MatSortMo
     AppRoutingModule,
     NgbModule,
     BrowserAnimationsModule,
-    MatInputModule,
-    MatPaginatorModule,
-    MatProgressSpinnerModule,
-    MatSortModule,
-    MatIconModule,
-    MatButtonModule,
-    MatCardModule,
-    MatGridListModule
+    // MatInputModule,
+    // MatPaginatorModule,
+    // MatProgressSpinnerModule,
+    // MatSortModule,
+    // MatIconModule,
+    // MatButtonModule,
+    // MatCardModule,
+    // MatGridListModule
   ],
   providers: [],
   bootstrap: [AppComponent]

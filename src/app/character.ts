@@ -5,6 +5,5 @@
 //import { SIGPIPE } from "constants";
 
   const Character = [
-    { id: 1, name: 'Spider Man', image: 'assets/SpiderMan.jpg', identity: "Peter Parker", powers: 'Genius intellect, proficient scientist and inventor, superhuman strength, speed, durability, agility, stamina, reflexes, coordination, balance and endurance. Precognitive spider-sense ability, cling to most solid surfaces and web ability. Also utilizes wrist web-shooters to shoot spiderweb material.'
+    { id: 1, name: 'Spider Man', image: 'assets/SpiderMan.jpg', identity: "Peter Parker", powers: 'Genius intellect, proficient scientist and inventor, superhuman strength, speed, durability, agility, stamina, reflexes, coordination, balance and endurance. Precognitive spider-sense ability, cling to most solid surfaces and web ability. Also utilizes wrist web-shooters to shoot spiderweb material.',
   }]
-
